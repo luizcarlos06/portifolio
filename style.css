@@ -582,7 +582,7 @@ footer p {
   right: 2.5rem;
   width: 8rem;
   height: 8rem;
-
+  
   opacity: 0;
   visibility: hidden;
   transform: translateY(100%);

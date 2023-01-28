@@ -14,7 +14,7 @@ function showBackToTopButtonOnScroll() {
 ScrollReveal({
   origin: 'top',
   distance: '100px',
-  duration: 2700
+  duration: 2200
 }).reveal(`
 .title,
 .card,
